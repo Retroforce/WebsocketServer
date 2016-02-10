@@ -1,0 +1,10 @@
+{
+  "name": "chatbozz",
+  "description": "Chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+  }
+}
